@@ -5,7 +5,7 @@ Frontend (Next.js) ile haberleşerek JWT authentication, stok giriş-çıkış, 
 
 ---
 
-## 🚀 Teknoloji Yığını
+## 🚀 Teknoloji Yığını  :
 
 | Katman            | Teknoloji               |
 | ----------------- | ----------------------- |
